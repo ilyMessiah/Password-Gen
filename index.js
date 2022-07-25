@@ -1,6 +1,6 @@
 function passwordGen() {
 
-    const characters = 'abcdefghijklmnopqrstuvwxyz1234567890'
+    const characters = 'abcdefghijklmnopqrstuvwxyz1234567890!@#$^&*(){}[]'
     
       const randomlyGeneratedChars = [];
     
